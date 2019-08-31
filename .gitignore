@@ -1,0 +1,4 @@
+fitbit/
+output/
+__pycache__/
+keys.json
