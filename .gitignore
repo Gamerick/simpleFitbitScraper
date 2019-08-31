@@ -1,4 +1,6 @@
-fitbit/
 output/
 __pycache__/
 keys.json
+.env
+venv/
+.vscode/
